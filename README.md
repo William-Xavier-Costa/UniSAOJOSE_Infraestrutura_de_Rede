@@ -1,4 +1,4 @@
-# **Projeto Integrador UniSÃOJOSÉ**  
+# **Projeto Integrador UniSAOJOSE**  
 
 ## **1.Infraestrutura de Rede de Computadores**  
 
@@ -9,11 +9,23 @@
 ## **2.Introdução**  
 
 Objetivo de desenvolver as habilidades técnicas e comportamentais do aluno com status de estagiário.  
-O estudo de caso coordenado pelo corpo docente na implementação dos conhecimentos teórico no exercício da atividade técnica,  
-pratica na execução do projeto na ferramenta do laboratório CISCO PACKET TRACER, resultando na execução das atribuições Técnicas.  
-Planejamento do Projeto:  
+O estudo de caso coordenado pelo corpo docente na implementação dos conhecimentos teórico no exercício da atividade técnica. 
+Realizar Pratica de simulação na execução do projeto  no que se refere a arquitetura de Rede na ferramenta do laboratório CISCO PACKET TRACER, resultando relatórios Técnicos.  
+
+## **3. Planejamento do Projeto:**
+
 1. Empresa de tecnologia foi contratada para resestruturar uma rede que se encontra colapsada.  
 2. O corpo técnico dessa empreasa de TI definiu a necessidade do estagiário de rede para compor a equipe de campo.  
 3. O projeto desenvolvido trata-se de umas das fases de avaliação do Estagiário. O Conhecimento de rede e suas tecnologias.
-Desenvolvimento realizado foi a elaborado a documentação técnica para avaliação técnica teórica e posteriormente a atividade prática. 
+
+## **4. Desenvolvimento**  
+
+Realizado a elaborado da documentação técnica para avaliação teórica e posteriormente a atividade prática em laboratório.  
+
+##  **5. Tecnologias Implementadas**  
+
+- **Firewall de Borda:** pfSense (Multi-WAN Failover, Regras de ACL, IPS Snort)
+- **Segmentação Lógica:** VLANs baseadas na norma IEEE 802.1Q
+- **Infraestrutura Física:** Cabeamento estruturado seguindo as diretrizes ANSI/TIA-568 com mídias CAT6
+- **WLAN Corporativa:** Redes Wireless isoladas com autenticação WPA3-Enterprise
 
