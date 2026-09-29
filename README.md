@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Infraestrutura de Rede
 
 Projeto Integrador UniSÃOJOSÉ
@@ -41,4 +40,3 @@ Realizado a elaborado da documentação técnica para avaliação teórica e pos
 - **Infraestrutura Física:** Cabeamento estruturado seguindo as diretrizes ANSI/TIA-568 com mídias CAT6
 - **WLAN Corporativa:** Redes Wireless isoladas com autenticação WPA3-Enterprise
 
->>>>>>> 44d41fbd8633c74f3cc4851ce7ccb0796f2b5821
