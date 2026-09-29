@@ -8,7 +8,7 @@
 ### **Definição dos níveis do projeto:**  
 ### **Nivel 1 Infraetrutura Local - LAN**  
 ### **Nivel 2 Redes distantes e Conectividade**
-=======
+
 ### **Projeto Integrador UniSAOJOSE**  
 
 ### **1.Infraestrutura de Rede de Computadores**  
